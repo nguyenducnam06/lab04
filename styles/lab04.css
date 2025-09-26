@@ -71,3 +71,7 @@ a:hover {
   background-color: lightcoral;
   border-color: darkred;
 }
+
+aside:hover {
+  display: none;
+}
